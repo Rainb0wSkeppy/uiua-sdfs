@@ -61,7 +61,7 @@ Rectangle ← (
 )
 
 # Distance ? A B C Position
-Triangle ← ×⊃(↧↧∩₃⌟Line|↥↥∩₃⌟(±Dot×i∩⌞-)) ⊃(⊙⊙◌|⋅⊙∘|⊃⋅⋅∘⊙⋅◌)
+Triangle ← ×⊃(±↥↥|↧↧∩₃⌵) ∩₃⌟Line ⊃(⊙⊙◌|⋅⊙∘|⊃⋅⋅∘⊙⋅◌)
 
 # Distance ? Radius Position
 EqulateralTriangle ← (
