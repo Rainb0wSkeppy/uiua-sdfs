@@ -46,7 +46,9 @@ QuadraticCurveClosestT ↚ (
     # find the closer root
     ⍜-× ⟜₂(< ∩⌟₃(⌵-+⊓⌞(×°√|×)))
   )
-  ≡≡⊏⊙(⍉⊟)
+  
+  # thank you harana for finding a faster way to do this
+  ⍜(∩⌞▽∩₃♭|⋅∘)
 )
 
 # Distance ? Radius Position
